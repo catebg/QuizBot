@@ -1,0 +1,11 @@
+
+-
+  id: 1
+  q: ¿Cuál es el río más grande del Perú?
+  a:
+    - correct: Amazonas
+    - Ucayali
+    - Marañón
+    - Huallaga
+
+-
